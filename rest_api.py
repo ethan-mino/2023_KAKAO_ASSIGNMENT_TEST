@@ -1,4 +1,4 @@
-from apiUtil import api_request
+from api_util import api_request
 
 BASE_URL = "https://68ecj67379.execute-api.ap-northeast-2.amazonaws.com/api"
 auth_key = None
